@@ -1,2 +1,2 @@
-#!bit/bash
-grep [[:alpha:]]* -f /etc/ssh/sshd_config`
+#!/bin/bash
+grep [[:alpha:]]* -f /etc/ssh/sshd_config
